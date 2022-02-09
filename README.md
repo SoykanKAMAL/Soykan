@@ -17,7 +17,7 @@ About Me:<br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="python" width="30" height="30"/><br/>
 :five: Have mastered many areas of game development like Gameplay Development and Game Mechanics Development.<br/><br/>
 <b>Reach Me! </b><br/> 
-<a href="https://www.linkedin.com/in/soykankamal/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/soykankamal/" target="_top"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> </a>
 <a href="https://vitaminsizdev.itch.io/" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/itch_io.svg" alt="linkedIn" width="40" height="40"/> </a><br/> 
 <b>Ask Me Anything Related To Game Development & Programming : </b><br/> 
 soykangokselkamal@gmail.com
