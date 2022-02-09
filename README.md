@@ -1,36 +1,42 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=SoykanKAMAL&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
-<h1 align="center">Hi 👋, I'm Max</h1>
+<h1 align="center">Hi 👋, I'm Soykan</h1>
 
-Wanna nominate me as a <a href="https://stars.github.com/">GitHub Star</a> ? <a href="https://stars.github.com/nominate/">Here, you go !!</a> (My username is: BaseMax)
+Unity Developer, Gaming Enthusiast, Loves Talking About #GameDevelopment and #VideoGames
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <b>Welcome !! </b><br/>
-Some things about me :<br/>
-:one: Programming language developer<br/>
-:two: Full stack developer and IT professional with over 10 years of experience.<br/>
-:three: Proficient with PHP, JavaScript, CSS, C and Python.<br/> 
-:four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
-:five: I’m currently working on the <a href="https://github.com/One-Language">ONE Programming Language</a><br/> 
-:six: Looking for funds to complete my Compiler Project - <a href="https://github.com/One-Language/">One</a>. Support us at <a href="https://github.com/sponsors/One-Language">GitHub Sponsors</a> or <a href="https://www.patreon.com/onelanguage">Patreon</a>.<br/>
-:seven: How to reach me : Mail me at ![](https://chxo.com/labelgen/labelgen.php?textval=+maxbasecode%40gmail.com&font=ARIAL.TTF&size=12&bgcolor=%23ffffff&textcolor=%23000000&submit=create+image)<br/>
-:eight: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
-:nine: Fun fact : Have been developing softwares for most part of my life
+About Me:<br/>
+:one: Unity3D & Unity2D Developer<br/>
+:two: 2 years of experience with the Unity Game Engine.<br/>
+:three: Excels at: 
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="c#" width="30" height="30"/> <br/>
+:four: Proficient with: 
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="c++" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="python" width="30" height="30"/><br/>
+:five: Have mastered many areas of game development like Gameplay Development and Game Mechanics Development.<br/><br/>
+<b>Reach Me! </b><br/> 
+<a href="https://www.linkedin.com/in/soykankamal/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> </a>
+<a href="https://vitaminsizdev.itch.io/" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/itch_io.svg" alt="linkedIn" width="40" height="40"/> </a><br/> 
+<b>Ask Me Anything Related To Game Development & Programming : </b><br/> 
+soykangokselkamal@gmail.com
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=basemax&column=8&margin-w=15&margin-h=15" alt="basemax"></a> 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+<b>My Games </b><br/>
 <b>Languages and Tools:</b><br/>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<br>
-<b>Languages Interests:</b><br/>
-<a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="c" width="40" height="40"/> </a> <a href="https://golang.org/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="c" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="c#" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="c++" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" alt="unity" width="120" height="40"/><br/>
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=basemax&show_icons=true&locale=en" alt="basemax">
+<b>Stats </b><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=soykanKAMAL&show_icons=true&locale=en" alt="soykanKAMAL">
 
 ------
 
-Credit: [basemax](https://github.com/BaseMax)
-
-Last Edited on: 30/10/2021
+Last Edited on: 09/02/2022
