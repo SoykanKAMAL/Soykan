@@ -31,7 +31,7 @@ kamal.soykan@gmail.com
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <h2 align="left">My Games:</h2>
 
-<h3 align="left">Please check my itch.io page for my latest games!</h3>
+<h3 align="left">- Please check <a href="https://vitaminsizdev.itch.io/" target="_blank">my itch.io page</a> for my latest games!</h3>
 
 <h3 align="left">TaxiCartWe (Casual/Driving/Drift) [<a href="https://vitaminsizdev.itch.io/cilgintaksi">Windows</a>/<a href="https://vitaminsizdev.itch.io/cilgintaksi">Web</a>]</h3>
 <p>:small_orange_diamond:[Game-Jam Game]-Made in 72 hours</p>
