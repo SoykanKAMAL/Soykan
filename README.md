@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <h3>Ask Me Anything Related To Game Development & Programming :</h3>
 
-soykangokselkamal@gmail.com
+kamal.soykan@gmail.com
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
