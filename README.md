@@ -1,15 +1,15 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=SoykanKAMAL&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
 <h1 align="center">Hi 👋, I'm Soykan</h1>
 
-Unity Developer, Gaming Enthusiast, Loves Talking About #GameDevelopment and #VideoGames
+Game Developer, Gaming Enthusiast, Loves Talking About #GameDevelopment and #VideoGames
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <h2>Welcome!!</h2>
 
 <h3>About Me:</h3>
 
-:one: Unity3D & Unity2D Developer<br/>
-:two: 2 years of experience with the Unity Game Engine.<br/>
+:one: Unity3D & Unity2D Developer & Godot Enthusiast<br/>
+:two: 3 years of experience with the Unity Game Engine.<br/>
 :three: Excels at: 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="c#" width="30" height="30"/> <br/>
 :four: Proficient with: 
